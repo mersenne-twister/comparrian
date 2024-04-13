@@ -6,7 +6,7 @@ use std::{
 fn main() {
     // get input file
     // check arg for file name, only do following if absent
-    println!("Welcome to Comparrian!");
+    println!("Welcome to Comparrian!\nLicensed under MIT or Apache-2.0 at your choice.");
     let mut input = String::new();
     let mut file;
     loop {
